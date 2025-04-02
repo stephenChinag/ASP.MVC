@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3J57E+mmG1Q=",
+  "dgSpecHash": "rr+WckOz4iQ=",
   "success": true,
-  "projectFilePath": "E:\\Personal Projects\\SingnalRDemo\\SingnalRDemo.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\SingnalRDemo\\SingnalRDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.3.0\\microsoft.aspnetcore.authorization.2.3.0.nupkg.sha512",

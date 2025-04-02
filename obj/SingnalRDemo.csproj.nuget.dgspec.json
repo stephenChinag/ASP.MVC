@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Personal Projects\\SingnalRDemo\\SingnalRDemo.csproj": {}
+    "C:\\Users\\HP\\Desktop\\SingnalRDemo\\SingnalRDemo.csproj": {}
   },
   "projects": {
-    "E:\\Personal Projects\\SingnalRDemo\\SingnalRDemo.csproj": {
+    "C:\\Users\\HP\\Desktop\\SingnalRDemo\\SingnalRDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Personal Projects\\SingnalRDemo\\SingnalRDemo.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\SingnalRDemo\\SingnalRDemo.csproj",
         "projectName": "SingnalRDemo",
-        "projectPath": "E:\\Personal Projects\\SingnalRDemo\\SingnalRDemo.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\SingnalRDemo\\SingnalRDemo.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\Personal Projects\\SingnalRDemo\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\SingnalRDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

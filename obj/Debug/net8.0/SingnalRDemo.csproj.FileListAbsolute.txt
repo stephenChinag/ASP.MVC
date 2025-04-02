@@ -23,3 +23,39 @@ E:\Personal Projects\SingnalRDemo\obj\Debug\net8.0\refint\SingnalRDemo.dll
 E:\Personal Projects\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.pdb
 E:\Personal Projects\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.genruntimeconfig.cache
 E:\Personal Projects\SingnalRDemo\obj\Debug\net8.0\ref\SingnalRDemo.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\SingnalRDemo.exe
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\SingnalRDemo.deps.json
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\SingnalRDemo.runtimeconfig.json
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\SingnalRDemo.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\SingnalRDemo.pdb
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.AssemblyInfo.cs
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.sourcelink.json
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\staticwebassets\msbuild.SingnalRDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.SingnalRDemo.props
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SingnalRDemo.props
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SingnalRDemo.props
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\scopedcss\bundle\SingnalRDemo.styles.css
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalR.A9529FBD.Up2Date
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.dll
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\refint\SingnalRDemo.dll
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.pdb
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.genruntimeconfig.cache
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\ref\SingnalRDemo.dll
