@@ -59,3 +59,8 @@ C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\refint\SingnalRDemo.dll
 C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.pdb
 C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.genruntimeconfig.cache
 C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\ref\SingnalRDemo.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\SingnalRDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\SingnalRDemo\obj\Debug\net8.0\SingnalRDemo.MvcApplicationPartsAssemblyInfo.cs

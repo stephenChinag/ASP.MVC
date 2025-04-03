@@ -1,3 +1,5 @@
+using SingnalRDemo.Hubs;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add Services to Container.
@@ -19,13 +21,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-app.UseRouting();
+app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
 
-
+app.MapHub<ChatHub>(pattern: "/Chat");
 // app.MapGet("/", () => "Hello World!");
 
 app.Run();
